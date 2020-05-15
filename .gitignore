@@ -5,10 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+.vscode/
 # Distribution / packaging
 .Python
 build/
+.idea/
 develop-eggs/
 dist/
 downloads/
@@ -127,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/ds_python.iml
+/.idea/modules.xml
